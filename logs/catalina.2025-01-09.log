@@ -1,0 +1,40 @@
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.98
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Dec 5 2024 19:50:29 UTC
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.98.0
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      x86
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\java\jdk8\jre
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       1.8.0_401-b10
+09-Jan-2025 15:19:04.032 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+09-Jan-2025 15:19:04.043 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4
+09-Jan-2025 15:19:04.043 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\apache\tomcat\apache-tomcat-9.0.98
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\conf\logging.properties
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\apache\tomcat\apache-tomcat-9.0.98
+09-Jan-2025 15:19:04.044 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\temp
+09-Jan-2025 15:19:04.047 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\java\jdk8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\java\jdk8;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\apache\ant\apache-ant-1.10.15\bin;C:\Users\thoma\AppData\Local\Microsoft\WindowsApps;C:\java\jdk8;C:\apache\ant\apache-ant-1.10.15\bin;;.]
+09-Jan-2025 15:19:04.346 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+09-Jan-2025 15:19:04.383 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [698] milliseconds
+09-Jan-2025 15:19:04.409 GRAVE [main] org.apache.catalina.users.MemoryUserDatabase.open El usuario de base de datos especificado [conf/tomcat-users.xml] no pudo ser encontrado
+09-Jan-2025 15:19:04.409 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+09-Jan-2025 15:19:04.409 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+09-Jan-2025 15:19:04.440 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployWAR Despliegue del archivo [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\sample.war] de la aplicación web
+09-Jan-2025 15:19:04.896 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\sample.war] has finished in [456] ms
+09-Jan-2025 15:19:04.908 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\docs] de la aplicación web
+09-Jan-2025 15:19:04.927 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\docs] has finished in [19] ms
+09-Jan-2025 15:19:04.943 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\examples] de la aplicación web
+09-Jan-2025 15:19:06.471 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\examples] has finished in [1.528] ms
+09-Jan-2025 15:19:06.471 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\host-manager] de la aplicación web
+09-Jan-2025 15:19:06.519 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\host-manager] has finished in [48] ms
+09-Jan-2025 15:19:06.519 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\manager] de la aplicación web
+09-Jan-2025 15:19:06.585 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\manager] has finished in [66] ms
+09-Jan-2025 15:19:06.597 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\ROOT] de la aplicación web
+09-Jan-2025 15:19:06.614 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_4\webapps\ROOT] has finished in [17] ms
+09-Jan-2025 15:19:06.629 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Jan-2025 15:19:06.644 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [2268] milliseconds
